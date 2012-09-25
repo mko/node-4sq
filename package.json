@@ -1,0 +1,66 @@
+{
+  "name": "node-4sq",
+  "description": "Fault-tolerant Foursquare API v2 wrapper for Node JS. A write-enabled variant of node-foursquare-2.",
+  "version": "0.1.6",
+  "main": "index.js",
+  "keywords": [
+    "node-4sq",
+    "node-foursquare",
+    "foursquare",
+    "4sq"
+  ],
+  "tags": [
+    "node-4sq",
+    "node-foursquare",
+    "foursquare",
+    "4sq"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mowens/node-4sq.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mowens/node-4sq/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/mowens/node-4sq/raw/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "log4js": "~0.4.1"
+  },
+  "devDependencies": {
+    "express": "~2.5.0"
+  },
+  "engines": {
+    "node": ">= 0.4.x"
+  },
+  "homepage": "https://github.com/mowens/node-4sq",
+  "author": {
+    "name": "Michael Owens",
+    "url": "http://mowens.com"
+  },
+  "directories": {
+    "lib": "./lib",
+    "doc": "./doc"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "_npmUser": {
+    "name": "mowens",
+    "email": "mk@mowens.com"
+  },
+  "_id": "node-4sq@0.1.6",
+  "optionalDependencies": {},
+  "_engineSupported": true,
+  "_npmVersion": "1.1.21",
+  "_nodeVersion": "v0.6.17",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "4db22c8c5286a1411a3b7d3fe8f83aec65f0a9f9"
+  },
+  "_from": "node-4sq@>= 0.1.6"
+}
