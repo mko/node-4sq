@@ -1,7 +1,7 @@
 {
   "name": "node-4sq",
   "description": "Fault-tolerant Foursquare API v2 wrapper for Node JS. A write-enabled variant of node-foursquare-2.",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "main": "index.js",
   "keywords": [
     "node-4sq",
