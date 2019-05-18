@@ -29,10 +29,10 @@
     }
   ],
   "dependencies": {
-    "log4js": "~0.5.5"
+    "log4js": "~4.2.0"
   },
   "devDependencies": {
-    "express": "~2.5.0"
+    "express": "~4.17.0"
   },
   "engines": {
     "node": ">= 0.4.x"
