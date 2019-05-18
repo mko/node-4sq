@@ -1,6 +1,8 @@
 node-4sq
 ==================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mko/node-4sq.svg)](https://greenkeeper.io/)
+
 Fault-tolerant Foursquare API wrapper for Node JS. With slight update.
 
 
